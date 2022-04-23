@@ -4,7 +4,7 @@ figure {
 }
 body{
     background: chartreuse;
-    text-size-adjust: 245px;
+    text-size-adjust: 245%;
     font-style: italic;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
