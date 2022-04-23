@@ -1,0 +1,14 @@
+figure {
+    width: auto;
+    position: center;
+}
+body{
+    background: chartreuse;
+    text-size-adjust: 245px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-decoration: line-through;
+    }
+
+}
